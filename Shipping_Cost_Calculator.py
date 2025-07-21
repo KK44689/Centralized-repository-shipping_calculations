@@ -1,4 +1,3 @@
-# Here is another update by KK44689
 # Here is a new update by KK44689
 # Shipping Cost Calculator
 
